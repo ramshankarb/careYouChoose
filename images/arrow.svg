@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="53px" viewBox="0 0 43 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Search-Bar" transform="translate(-55.000000, -39.000000)" stroke="#D0D0D0" stroke-width="3">
+            <g id="Arrow" transform="translate(76.489885, 65.459875) rotate(-16.000000) translate(-76.489885, -65.459875) translate(63.489885, 36.459875)">
+                <path d="M0.75973518,0.387383041 C0.574546744,17.681792 8.05483677,34.5214412 19.7089529,51.1134042" id="Stroke-1"></path>
+                <path d="M21.9386681,43.8668298 L25.2832409,57.8025499" id="Stroke-3" style="mix-blend-mode: multiply;"></path>
+                <path d="M14.6920937,53.3431194 L25.2832409,57.8025499" id="Stroke-5" style="mix-blend-mode: multiply;"></path>
+            </g>
+        </g>
+    </g>
+</svg>
